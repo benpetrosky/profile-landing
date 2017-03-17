@@ -1,0 +1,41 @@
+h1{
+  text-align: center;
+  font-family: fantasy;
+}
+#sh {
+  text-align: center;
+}
+.SFF {
+  font-weight:bold;
+}
+
+h2{
+  font-family: impact;
+  color: blue;
+}
+img{
+  align-self: auto;
+  border:2px solid green;
+  padding: 3px;
+}
+
+.fam {
+  color: green;
+}
+
+.sidebar {
+  float: right;
+  background-color: orange;
+}
+.web {
+  font-style: italic;
+  font-size: 20px;
+}
+#pihc {
+  text-decoration: underline;
+  font-style: italic;
+  font-size: 15px;
+}
+.bottom {
+  background-color: #9dccb2;
+}
