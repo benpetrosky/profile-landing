@@ -15,6 +15,9 @@ Clone this repository to desktop.
 Open an HTTP server in the top level of the cloned directory.
 Open your web browser of choice.
 
+To view the hosted site go to:
+https://benpetrosky.github.io/profile-landing/
+
 
 
 ## Support and contact details
